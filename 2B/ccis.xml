@@ -10,7 +10,7 @@
               <xs:element name="Name" type="xs:string" />
               <xs:element name="Nationality" type="xs:string" />
               <xs:element name="Experience" type="xs:unsignedByte" />
-              <xs:element name="Degree" type="xs:string" />
+              <xs:element name="Degree" type="xs:string" default="phd"/>
               <xs:element name="Phone" type="xs:unsignedLong" />
             </xs:sequence>
           </xs:complexType>
