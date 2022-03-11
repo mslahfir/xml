@@ -1,0 +1,28 @@
+<html>
+    <body>
+       <h2>Nutritional Values</h2>
+       <table border="1">
+          <tr bgcolor="#9acd32">
+             <th>Food_Item</th>
+             <th>Carbs</th>
+             <th>Fiber</th>
+             <th>Fat</th>
+             <th>Energy</th>
+          </tr>
+          <tr>
+             <td>Agar</td>
+             <td>81</td>
+             <td>8</td>
+             <td>0.5</td>
+             <td>1280</td>
+          </tr>
+          <tr>
+             <td>Asparagus</td>
+             <td>1</td>
+             <td>1</td>
+             <td>0</td>
+             <td>40</td>
+          </tr>
+       </table>
+    </body>
+ </html>
