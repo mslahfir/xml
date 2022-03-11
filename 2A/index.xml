@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<college>
+   <PSG>
+      <Students>8000</Students>
+      <Departments>
+         <Department>Information Technology</Department>
+         <Department>Computer Science Engineering</Department>
+      </Departments>
+   </PSG>
+</college>
+        

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Student>
+    <Academics>
+        <GPA>9.3</GPA>
+    </Academics>
+    <Placements>
+        <Placed>false</Placed>
+    </Placements>
+    <HigherStudies>
+        <Degree>M.Tech</Degree>
+        <GPA>9</GPA>
+    </HigherStudies>
+    <ExtraCurriculars>
+        <Ec>Football</Ec>
+        <Ec>Graphic Designin</Ec>
+    </ExtraCurriculars>
+</Student>
+        
