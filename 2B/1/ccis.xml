@@ -8,18 +8,11 @@
     <Degree>PHD</Degree>
     <Phone>
       <phone>1234567899</phone>
-    </Phone>
-  </Lecturer>
-  <Lecturer>
-    <Name>Rirani</Name>
-    <Nationality>CANADIAN</Nationality>
-    <Experience>2</Experience>
-    <Degree>PHD</Degree>
-    <Phone>
+      <phone>1234567899</phone>
       <phone>1234567899</phone>
     </Phone>
   </Lecturer>
-  <Lecturer>
+   <Lecturer>
     <Name>Rirani</Name>
     <Nationality>CANADIAN</Nationality>
     <Experience>2</Experience>
@@ -27,25 +20,6 @@
     <Phone>
       <phone>1234567899</phone>
       <phone>1234567899</phone>
-      <phone>1234567899</phone>
-    </Phone>
-  </Lecturer>
-  <Lecturer>
-    <Name>Rirani</Name>
-    <Nationality>CANADIAN</Nationality>
-    <Experience>2</Experience>
-    <Degree>PHD</Degree>
-    <Phone>
-      <phone>1234567899</phone>
-      <phone>1234567899</phone>
-    </Phone>
-  </Lecturer>
-  <Lecturer>
-    <Name>Rirani</Name>
-    <Nationality>CANADIAN</Nationality>
-    <Experience>2</Experience>
-    <Degree>PHD</Degree>
-    <Phone>
       <phone>1234567899</phone>
     </Phone>
   </Lecturer>

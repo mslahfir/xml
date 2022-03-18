@@ -4,7 +4,7 @@
   <xs:element name="ccis_college">
     <xs:complexType>
       <xs:sequence>
-        <xs:element name="Lecturer">
+        <xs:element name="Lecturer" maxOccurs="unbounded">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="Name" type="xs:string" />
@@ -14,9 +14,7 @@
               <xs:element name='Phone'>
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="phone" type="xs:unsignedLong" />
-                    <xs:element name="phone" type="xs:unsignedLong" />
-                    <xs:element name="phone" type="xs:unsignedLong" /> 
+                    <xs:element name="phone" type="xs:unsignedLong" maxOccurs="3"/>
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
