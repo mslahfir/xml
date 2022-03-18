@@ -1,21 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
-<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:element name="ccis_college">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element name="Lecturer">
-          <xs:complexType>
-            <xs:sequence>
-              <xs:element name="Name" type="xs:string" />
-              <xs:element name="Nationality" type="xs:string" />
-              <xs:element name="Experience" type="xs:unsignedByte" />
-              <xs:element name="Degree" type="xs:string" default="phd"/>
-              <xs:element name="Phone" type="xs:unsignedLong" />
-            </xs:sequence>
-          </xs:complexType>
-        </xs:element>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-</xs:schema>
+<ccis_college xsi:noNamespaceSchemaLocation="schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Lecturer>
+    <Name>Rirani</Name>
+    <Nationality>CANADIAN</Nationality>
+    <Experience>2</Experience>
+    <Degree>PHD</Degree>
+    <Phone>
+      <phone>1234567899</phone>
+    </Phone>
+  </Lecturer>
+  <Lecturer>
+    <Name>Rirani</Name>
+    <Nationality>CANADIAN</Nationality>
+    <Experience>2</Experience>
+    <Degree>PHD</Degree>
+    <Phone>
+      <phone>1234567899</phone>
+    </Phone>
+  </Lecturer>
+  <Lecturer>
+    <Name>Rirani</Name>
+    <Nationality>CANADIAN</Nationality>
+    <Experience>2</Experience>
+    <Degree>PHD</Degree>
+    <Phone>
+      <phone>1234567899</phone>
+      <phone>1234567899</phone>
+      <phone>1234567899</phone>
+    </Phone>
+  </Lecturer>
+  <Lecturer>
+    <Name>Rirani</Name>
+    <Nationality>CANADIAN</Nationality>
+    <Experience>2</Experience>
+    <Degree>PHD</Degree>
+    <Phone>
+      <phone>1234567899</phone>
+      <phone>1234567899</phone>
+    </Phone>
+  </Lecturer>
+  <Lecturer>
+    <Name>Rirani</Name>
+    <Nationality>CANADIAN</Nationality>
+    <Experience>2</Experience>
+    <Degree>PHD</Degree>
+    <Phone>
+      <phone>1234567899</phone>
+    </Phone>
+  </Lecturer>
+</ccis_college>
