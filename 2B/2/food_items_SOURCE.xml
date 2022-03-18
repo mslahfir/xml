@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="food_items_XSLT.xsl"?>
 <Food>
-  <cd>
+  <cd type="vegetable">
     <fi>Agar</fi>
     <carbs>81</carbs>
     <fiber>8</fiber>
     <fat>0.5</fat>
     <energy>1280</energy>
   </cd>
-  <cd>
+  <cd type="vegetable">
     <fi>Asparagus</fi>
     <carbs>1</carbs>
     <fiber>1</fiber>
     <fat>0</fat>
     <energy>40</energy>
   </cd>
-  <cd>
+  <cd type="vegetable">
     <fi>Cabbage</fi>
     <carbs>0</carbs>
     <fiber>1</fiber>
     <fat>0</fat>
     <energy>14</energy>
   </cd>
-  <cd>
+  <cd type="vegetable">
     <fi>Potato</fi>
     <carbs>21.5</carbs>
     <fiber>2</fiber>
     <fat>1</fat>
     <energy>460</energy>
   </cd>
-  <cd>
+  <cd type="vegetable">
     <fi>Pumpkin</fi>
     <carbs>6</carbs>
     <fiber>1</fiber>
     <fat>0.5</fat>
     <energy>150</energy>
   </cd>
-  <cd>
+  <cd type="vegetable">
     <fi>Yam</fi>
     <carbs>30.5</carbs>
     <fiber>2</fiber>
     <fat>0.5</fat>
     <energy>550</energy>
   </cd>
-  <cd>
+  <cd type="vegetable">
     <fi>Zucchini</fi>
     <carbs>1.5</carbs>
     <fiber>1.5</fiber>
