@@ -8,7 +8,7 @@
     <fat>0.5</fat>
     <energy>1280</energy>
   </cd>
-  <cd type="vegetable">
+  <cd type="fruit">
     <fi>Asparagus</fi>
     <carbs>1</carbs>
     <fiber>1</fiber>
@@ -43,7 +43,21 @@
     <fat>0.5</fat>
     <energy>550</energy>
   </cd>
+  <cd type="fruit">
+    <fi>Zucchini</fi>
+    <carbs>1.5</carbs>
+    <fiber>1.5</fiber>
+    <fat>0.5</fat>
+    <energy>55</energy>
+  </cd>
   <cd type="vegetable">
+    <fi>Broccoli</fi>
+    <carbs>30.5</carbs>
+    <fiber>2</fiber>
+    <fat>0.5</fat>
+    <energy>550</energy>
+  </cd>
+  <cd type="fruit">
     <fi>Zucchini</fi>
     <carbs>1.5</carbs>
     <fiber>1.5</fiber>
